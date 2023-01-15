@@ -200,7 +200,7 @@ main{
 }
 .active{
     box-shadow: 0px 5px 15px rgb(0, 0,0,  0.4);
-    border
+    border: none;
 }
 .room-word{
     padding: 20px;
